@@ -5,8 +5,7 @@ function App() {
   return (
     <>
     <div className="container my-5">
- 
- 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
 	<div className="ombre-externe">
 		<div className="ombre-interne">
 				<div id="carouselExampleCaptions" className="carousel slide " data-bs-ride="carousel">
@@ -53,6 +52,7 @@ function App() {
 				</div>
 		</div>
 	</div>
+	
 </div>
 
     </>

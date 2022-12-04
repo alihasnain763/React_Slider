@@ -5,8 +5,6 @@ function App() {
   return (
     <>
     <div className="container my-5">
- 
- 
 	<div className="ombre-externe">
 		<div className="ombre-interne">
 				<div id="carouselExampleCaptions" className="carousel slide " data-bs-ride="carousel">
@@ -53,6 +51,7 @@ function App() {
 				</div>
 		</div>
 	</div>
+	
 </div>
 
     </>
